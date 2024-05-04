@@ -1,0 +1,100 @@
+{
+  "uid" : "48939d378df05cb3",
+  "name" : "ErrorTestLogCredentials",
+  "fullName" : "testcases.TestLogIn.ErrorTestLogCredentials",
+  "historyId" : "9260b3be8bdde46739c0f7d59fa33840",
+  "time" : {
+    "start" : 1714803029487,
+    "stop" : 1714803029838,
+    "duration" : 351
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "openBrowser",
+    "time" : {
+      "start" : 1714803022019,
+      "stop" : 1714803025864,
+      "duration" : 3845
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "quiteBrowser",
+    "time" : {
+      "start" : 1714803034262,
+      "stop" : 1714803034862,
+      "duration" : 600
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.TestLogIn"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.TestLogIn"
+  }, {
+    "name" : "testMethod",
+    "value" : "ErrorTestLogCredentials"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "C:/Users/User/Desktop/Web_Automation_excelestore_Website/Web_Automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.TestLogIn"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-F79RV8K"
+  }, {
+    "name" : "thread",
+    "value" : "12072@DESKTOP-F79RV8K.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : ""
+  }, {
+    "name" : "arg1",
+    "value" : ""
+  }, {
+    "name" : "arg2",
+    "value" : "Epic sadface: Username is required"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "48939d378df05cb3.json",
+  "parameterValues" : [ "", "", "Epic sadface: Username is required" ]
+}

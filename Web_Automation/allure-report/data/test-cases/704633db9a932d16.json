@@ -1,0 +1,143 @@
+{
+  "uid" : "704633db9a932d16",
+  "name" : "purchaseProduct",
+  "fullName" : "testcases.TestProductPage.purchaseProduct",
+  "historyId" : "2d18d8068be57ff6e2bb51ce6f6e2bae",
+  "time" : {
+    "start" : 1714803031522,
+    "stop" : 1714803034237,
+    "duration" : 2715
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "openBrowser",
+    "time" : {
+      "start" : 1714803022019,
+      "stop" : 1714803025864,
+      "duration" : 3845
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e4c95bffa362a757",
+      "name" : "After login",
+      "source" : "e4c95bffa362a757.png",
+      "type" : "image/png",
+      "size" : 364931
+    }, {
+      "uid" : "8e1a4432dfd018b3",
+      "name" : "click on bikelight",
+      "source" : "8e1a4432dfd018b3.png",
+      "type" : "image/png",
+      "size" : 300304
+    }, {
+      "uid" : "37ee8c117c775a5f",
+      "name" : "after shopping Card",
+      "source" : "37ee8c117c775a5f.png",
+      "type" : "image/png",
+      "size" : 65385
+    }, {
+      "uid" : "bc1a61d7ca3756a7",
+      "name" : "after click on checkout button",
+      "source" : "bc1a61d7ca3756a7.png",
+      "type" : "image/png",
+      "size" : 31313
+    }, {
+      "uid" : "1baaac45b63fe804",
+      "name" : "after fillup ",
+      "source" : "1baaac45b63fe804.png",
+      "type" : "image/png",
+      "size" : 28158
+    }, {
+      "uid" : "9cfde038f0efb90c",
+      "name" : "after Click manu",
+      "source" : "9cfde038f0efb90c.png",
+      "type" : "image/png",
+      "size" : 67948
+    }, {
+      "uid" : "56a471b019d5bf5",
+      "name" : "after click logout ",
+      "source" : "56a471b019d5bf5.png",
+      "type" : "image/png",
+      "size" : 41437
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 7,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "quiteBrowser",
+    "time" : {
+      "start" : 1714803034262,
+      "stop" : 1714803034862,
+      "duration" : 600
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.TestProductPage"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.TestProductPage"
+  }, {
+    "name" : "testMethod",
+    "value" : "purchaseProduct"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "C:/Users/User/Desktop/Web_Automation_excelestore_Website/Web_Automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.TestProductPage"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-F79RV8K"
+  }, {
+    "name" : "thread",
+    "value" : "12072@DESKTOP-F79RV8K.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "704633db9a932d16.json",
+  "parameterValues" : [ ]
+}

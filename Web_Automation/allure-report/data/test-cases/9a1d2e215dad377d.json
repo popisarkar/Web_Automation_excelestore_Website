@@ -1,0 +1,133 @@
+{
+  "uid" : "9a1d2e215dad377d",
+  "name" : "Add To Card",
+  "fullName" : "testcases.TestProductPage.testAddToCard",
+  "historyId" : "d43b8a3552d770f86533a006a5a15028",
+  "time" : {
+    "start" : 1714803233195,
+    "stop" : 1714803234031,
+    "duration" : 836
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "openBrowser",
+    "time" : {
+      "start" : 1714803225722,
+      "stop" : 1714803228481,
+      "duration" : 2759
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6c11e27c4b30e562",
+      "name" : "After Add to Card",
+      "source" : "6c11e27c4b30e562.png",
+      "type" : "image/png",
+      "size" : 300304
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "quiteBrowser",
+    "time" : {
+      "start" : 1714803237008,
+      "stop" : 1714803237955,
+      "duration" : 947
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.TestProductPage"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.TestProductPage"
+  }, {
+    "name" : "testMethod",
+    "value" : "testAddToCard"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "C:/Users/User/Desktop/Web_Automation_excelestore_Website/Web_Automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.TestProductPage"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-F79RV8K"
+  }, {
+    "name" : "thread",
+    "value" : "532@DESKTOP-F79RV8K.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a1827a7da7fd6adb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1714803030670,
+        "stop" : 1714803031516,
+        "duration" : 846
+      }
+    }, {
+      "uid" : "d3e0855087d5603c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1714801040623,
+        "stop" : 1714801041199,
+        "duration" : 576
+      }
+    }, {
+      "uid" : "b12ae48b80f39f47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1714800364506,
+        "stop" : 1714800365035,
+        "duration" : 529
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a1d2e215dad377d.json",
+  "parameterValues" : [ ]
+}

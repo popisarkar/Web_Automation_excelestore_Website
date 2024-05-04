@@ -1,0 +1,169 @@
+{
+  "uid" : "d000915c11407482",
+  "name" : "productPurchase",
+  "fullName" : "testcases.TestProductPage.purchaseProduct",
+  "historyId" : "2d18d8068be57ff6e2bb51ce6f6e2bae",
+  "time" : {
+    "start" : 1714803234036,
+    "stop" : 1714803236982,
+    "duration" : 2946
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "openBrowser",
+    "time" : {
+      "start" : 1714803225722,
+      "stop" : 1714803228481,
+      "duration" : 2759
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a1eaeb3af5468a68",
+      "name" : "After login",
+      "source" : "a1eaeb3af5468a68.png",
+      "type" : "image/png",
+      "size" : 364931
+    }, {
+      "uid" : "5e63cc07be331a4",
+      "name" : "click on bikelight",
+      "source" : "5e63cc07be331a4.png",
+      "type" : "image/png",
+      "size" : 300304
+    }, {
+      "uid" : "6f95c2150cacbe52",
+      "name" : "after shopping Card",
+      "source" : "6f95c2150cacbe52.png",
+      "type" : "image/png",
+      "size" : 65385
+    }, {
+      "uid" : "45a1bbcfa731a9d0",
+      "name" : "after click on checkout button",
+      "source" : "45a1bbcfa731a9d0.png",
+      "type" : "image/png",
+      "size" : 31313
+    }, {
+      "uid" : "2cf24d7388003e40",
+      "name" : "after fillup ",
+      "source" : "2cf24d7388003e40.png",
+      "type" : "image/png",
+      "size" : 28158
+    }, {
+      "uid" : "ac8c161bbcf49f2f",
+      "name" : "after Click manu",
+      "source" : "ac8c161bbcf49f2f.png",
+      "type" : "image/png",
+      "size" : 68917
+    }, {
+      "uid" : "1d03c4584b65bc6a",
+      "name" : "after click logout ",
+      "source" : "1d03c4584b65bc6a.png",
+      "type" : "image/png",
+      "size" : 41437
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 7,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "quiteBrowser",
+    "time" : {
+      "start" : 1714803237008,
+      "stop" : 1714803237955,
+      "duration" : 947
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.TestProductPage"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.TestProductPage"
+  }, {
+    "name" : "testMethod",
+    "value" : "purchaseProduct"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "C:/Users/User/Desktop/Web_Automation_excelestore_Website/Web_Automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.TestProductPage"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-F79RV8K"
+  }, {
+    "name" : "thread",
+    "value" : "532@DESKTOP-F79RV8K.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "704633db9a932d16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1714803031522,
+        "stop" : 1714803034237,
+        "duration" : 2715
+      }
+    }, {
+      "uid" : "cb76edb468e1f86c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1714801041206,
+        "stop" : 1714801042543,
+        "duration" : 1337
+      }
+    }, {
+      "uid" : "58af5f7e4edcc55a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1714800365039,
+        "stop" : 1714800366385,
+        "duration" : 1346
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d000915c11407482.json",
+  "parameterValues" : [ ]
+}

@@ -1,5 +1,6 @@
 package testcases;
 
+import io.qameta.allure.Description;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.LogInPage;
@@ -15,16 +16,19 @@ public class TestLogIn extends DriverSetUp {
     LogInPage logInPage= new LogInPage();
     ProductPage productPage= new ProductPage();
 
-    @Test
+    @Test(description = "Test With valid login")
+    @Description("user trying login with valid username and password")
 
     public void testlog(){
 
      getBrowser().get(logInPage.logInPageURl);
      logInPage.writeOnElement(logInPage.emailInputBox,"standard_user");
+     logInPage.takeScreenShot("After Username");
      logInPage.writeOnElement(logInPage.passwordInputBox,"secret_sauce");
+        logInPage.takeScreenShot("After password");
      logInPage.clickOnElement(logInPage.logInButton);
      Assert.assertEquals(getBrowser().getCurrentUrl(),productPage.productPageURl);
-
+        logInPage.takeScreenShot("After login");
 
 
 

@@ -1,0 +1,97 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-F79RV8K",
+    "children" : [ {
+      "name" : "532@DESKTOP-F79RV8K.main(1)",
+      "children" : [ {
+        "name" : "Add To Card",
+        "uid" : "9a1d2e215dad377d",
+        "parentUid" : "d67f18eab7fc81f0bd75630432c769f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1714803233195,
+          "stop" : 1714803234031,
+          "duration" : 836
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test With valid login",
+        "uid" : "9e6eff9a0c3f29c",
+        "parentUid" : "d67f18eab7fc81f0bd75630432c769f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1714803228664,
+          "stop" : 1714803230958,
+          "duration" : 2294
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "click on product",
+        "uid" : "e70236d707e963d",
+        "parentUid" : "d67f18eab7fc81f0bd75630432c769f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1714803232330,
+          "stop" : 1714803233191,
+          "duration" : 861
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ErrorTestLogCredentials",
+        "uid" : "67feff1af8b5e148",
+        "parentUid" : "d67f18eab7fc81f0bd75630432c769f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1714803231565,
+          "stop" : 1714803231947,
+          "duration" : 382
+        },
+        "flaky" : false,
+        "parameters" : [ "", "secret_sauce", "Epic sadface: Username is required" ]
+      }, {
+        "name" : "ErrorTestLogCredentials",
+        "uid" : "31092ba40c24c9d9",
+        "parentUid" : "d67f18eab7fc81f0bd75630432c769f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1714803231060,
+          "stop" : 1714803231558,
+          "duration" : 498
+        },
+        "flaky" : false,
+        "parameters" : [ "standard_user", "12", "Epic sadface: Username and password do not match any user in this service" ]
+      }, {
+        "name" : "ErrorTestLogCredentials",
+        "uid" : "10e4228d139a96bb",
+        "parentUid" : "d67f18eab7fc81f0bd75630432c769f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1714803231952,
+          "stop" : 1714803232325,
+          "duration" : 373
+        },
+        "flaky" : false,
+        "parameters" : [ "", "", "Epic sadface: Username is required" ]
+      }, {
+        "name" : "productPurchase",
+        "uid" : "d000915c11407482",
+        "parentUid" : "d67f18eab7fc81f0bd75630432c769f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1714803234036,
+          "stop" : 1714803236982,
+          "duration" : 2946
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d67f18eab7fc81f0bd75630432c769f2"
+    } ],
+    "uid" : "b6a5df1ad142c5990924d30e47105196"
+  } ]
+}

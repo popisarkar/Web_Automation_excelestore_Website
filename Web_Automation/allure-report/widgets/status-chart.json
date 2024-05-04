@@ -1,0 +1,71 @@
+[ {
+  "uid" : "9a1d2e215dad377d",
+  "name" : "Add To Card",
+  "time" : {
+    "start" : 1714803233195,
+    "stop" : 1714803234031,
+    "duration" : 836
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e6eff9a0c3f29c",
+  "name" : "Test With valid login",
+  "time" : {
+    "start" : 1714803228664,
+    "stop" : 1714803230958,
+    "duration" : 2294
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e70236d707e963d",
+  "name" : "click on product",
+  "time" : {
+    "start" : 1714803232330,
+    "stop" : 1714803233191,
+    "duration" : 861
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67feff1af8b5e148",
+  "name" : "ErrorTestLogCredentials",
+  "time" : {
+    "start" : 1714803231565,
+    "stop" : 1714803231947,
+    "duration" : 382
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31092ba40c24c9d9",
+  "name" : "ErrorTestLogCredentials",
+  "time" : {
+    "start" : 1714803231060,
+    "stop" : 1714803231558,
+    "duration" : 498
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10e4228d139a96bb",
+  "name" : "ErrorTestLogCredentials",
+  "time" : {
+    "start" : 1714803231952,
+    "stop" : 1714803232325,
+    "duration" : 373
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d000915c11407482",
+  "name" : "productPurchase",
+  "time" : {
+    "start" : 1714803234036,
+    "stop" : 1714803236982,
+    "duration" : 2946
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

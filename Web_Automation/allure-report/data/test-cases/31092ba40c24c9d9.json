@@ -1,0 +1,126 @@
+{
+  "uid" : "31092ba40c24c9d9",
+  "name" : "ErrorTestLogCredentials",
+  "fullName" : "testcases.TestLogIn.ErrorTestLogCredentials",
+  "historyId" : "d225e691fa241fb9779937a7de423d21",
+  "time" : {
+    "start" : 1714803231060,
+    "stop" : 1714803231558,
+    "duration" : 498
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "openBrowser",
+    "time" : {
+      "start" : 1714803225722,
+      "stop" : 1714803228481,
+      "duration" : 2759
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "quiteBrowser",
+    "time" : {
+      "start" : 1714803237008,
+      "stop" : 1714803237955,
+      "duration" : 947
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.TestLogIn"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.TestLogIn"
+  }, {
+    "name" : "testMethod",
+    "value" : "ErrorTestLogCredentials"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "C:/Users/User/Desktop/Web_Automation_excelestore_Website/Web_Automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.TestLogIn"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-F79RV8K"
+  }, {
+    "name" : "thread",
+    "value" : "532@DESKTOP-F79RV8K.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "standard_user"
+  }, {
+    "name" : "arg1",
+    "value" : "12"
+  }, {
+    "name" : "arg2",
+    "value" : "Epic sadface: Username and password do not match any user in this service"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "df837033152d31ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1714803028573,
+        "stop" : 1714803029059,
+        "duration" : 486
+      }
+    }, {
+      "uid" : "ca7a7975e22ed3da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1714801038800,
+        "stop" : 1714801039262,
+        "duration" : 462
+      }
+    }, {
+      "uid" : "f6fb154ddcce16f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1714800362398,
+        "stop" : 1714800362920,
+        "duration" : 522
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "31092ba40c24c9d9.json",
+  "parameterValues" : [ "standard_user", "12", "Epic sadface: Username and password do not match any user in this service" ]
+}

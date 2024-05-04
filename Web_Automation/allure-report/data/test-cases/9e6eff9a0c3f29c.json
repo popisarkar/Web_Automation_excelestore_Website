@@ -1,0 +1,148 @@
+{
+  "uid" : "9e6eff9a0c3f29c",
+  "name" : "Test With valid login",
+  "fullName" : "testcases.TestLogIn.testlog",
+  "historyId" : "d1e4c4e0be01a92a4f65372ce9d4aadb",
+  "time" : {
+    "start" : 1714803228664,
+    "stop" : 1714803230958,
+    "duration" : 2294
+  },
+  "description" : "user trying login with valid username and password",
+  "descriptionHtml" : "<p>user trying login with valid username and password</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "openBrowser",
+    "time" : {
+      "start" : 1714803225722,
+      "stop" : 1714803228481,
+      "duration" : 2759
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "user trying login with valid username and password",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "23a360ce76631fda",
+      "name" : "After Username",
+      "source" : "23a360ce76631fda.png",
+      "type" : "image/png",
+      "size" : 42063
+    }, {
+      "uid" : "afea911beb633c",
+      "name" : "After password",
+      "source" : "afea911beb633c.png",
+      "type" : "image/png",
+      "size" : 40282
+    }, {
+      "uid" : "b13e6e5353feb336",
+      "name" : "After login",
+      "source" : "b13e6e5353feb336.png",
+      "type" : "image/png",
+      "size" : 364196
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "quiteBrowser",
+    "time" : {
+      "start" : 1714803237008,
+      "stop" : 1714803237955,
+      "duration" : 947
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.TestLogIn"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.TestLogIn"
+  }, {
+    "name" : "testMethod",
+    "value" : "testlog"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "C:/Users/User/Desktop/Web_Automation_excelestore_Website/Web_Automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.TestLogIn"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-F79RV8K"
+  }, {
+    "name" : "thread",
+    "value" : "532@DESKTOP-F79RV8K.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f37a60e7bccf62d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1714803026006,
+        "stop" : 1714803028420,
+        "duration" : 2414
+      }
+    }, {
+      "uid" : "70ea23ad5eff1cb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1714801037079,
+        "stop" : 1714801038576,
+        "duration" : 1497
+      }
+    }, {
+      "uid" : "8984a5c8472b1fc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1714800360340,
+        "stop" : 1714800362152,
+        "duration" : 1812
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e6eff9a0c3f29c.json",
+  "parameterValues" : [ ]
+}

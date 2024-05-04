@@ -1,0 +1,133 @@
+{
+  "uid" : "e70236d707e963d",
+  "name" : "click on product",
+  "fullName" : "testcases.TestProductPage.testProductPage",
+  "historyId" : "a427e4e6738f9fcbbe159ab4817fae24",
+  "time" : {
+    "start" : 1714803232330,
+    "stop" : 1714803233191,
+    "duration" : 861
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "openBrowser",
+    "time" : {
+      "start" : 1714803225722,
+      "stop" : 1714803228481,
+      "duration" : 2759
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2be0e4dee3777d0b",
+      "name" : "click on bikelight",
+      "source" : "2be0e4dee3777d0b.png",
+      "type" : "image/png",
+      "size" : 300629
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "quiteBrowser",
+    "time" : {
+      "start" : 1714803237008,
+      "stop" : 1714803237955,
+      "duration" : 947
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.TestProductPage"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.TestProductPage"
+  }, {
+    "name" : "testMethod",
+    "value" : "testProductPage"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "C:/Users/User/Desktop/Web_Automation_excelestore_Website/Web_Automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.TestProductPage"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-F79RV8K"
+  }, {
+    "name" : "thread",
+    "value" : "532@DESKTOP-F79RV8K.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2fdb0deff0ba1857",
+      "status" : "passed",
+      "time" : {
+        "start" : 1714803029843,
+        "stop" : 1714803030664,
+        "duration" : 821
+      }
+    }, {
+      "uid" : "3bcfa841b67d605d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1714801040080,
+        "stop" : 1714801040615,
+        "duration" : 535
+      }
+    }, {
+      "uid" : "9eb4cafda0fb0bc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1714800363799,
+        "stop" : 1714800364501,
+        "duration" : 702
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e70236d707e963d.json",
+  "parameterValues" : [ ]
+}
